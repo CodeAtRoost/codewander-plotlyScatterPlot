@@ -278,6 +278,9 @@ define( ["qlik", "text!./codewander-plotlyScatterPlot.ng.html", "css!./codewande
 					$('#myDiv').text("The chart requires even number of measures to plot series");
 					return;
 				}
+				else{
+					$('#myDiv').empty();
+				}
 				$.each(this.$scope.layout.qHyperCube.qDimensionInfo,function(index,item){
 				 	cols.push((item.title !=null && item.title!="")?item.title : item.qFallbackTitle);					
 				});
