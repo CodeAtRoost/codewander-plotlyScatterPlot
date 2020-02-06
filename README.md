@@ -2,6 +2,7 @@ Qlik sense extension multi series scatter plot
 This extension lets users create a multi series scatter plot in their Qlik sense application
 Please find below the configuration.
 
+Measures and Dimensions
 This extension requires only one dimension and an even number of measures to visualize data. 
 The extension takes the odd measures as x-value and even measures as y-value. Each pair is a series. 
 This design is to accommodate plotting data from different set of columns. If either your x or y value is from the same column, you can repeat the measures. 
