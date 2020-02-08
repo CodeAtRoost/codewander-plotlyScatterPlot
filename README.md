@@ -26,15 +26,15 @@ Series section lets you add details related to each of the series that you want 
 
 In the series section, you can enter the following for each of the series which means you can control each series independent of other series.
 
-name of the series
-color
-series type
-marker size
-highlight first point
+* Name of the series
+* Color
+* Series type
+* Marker size
+* Highlight first point
 
-** Series Type: ** There are three options in the series type: lines, lines+markers and markers. The markers is the usual scatter plot where as lines and lines+markers lets us draw the line to the plot connecting the data points in the order they appear in the series. The following picture shows the lines+markers and markers series in one single visualization.
+**Series Type:** There are three options in the series type: lines, lines+markers and markers. The markers is the usual scatter plot where as lines and lines+markers lets us draw the line to the plot connecting the data points in the order they appear in the series. The following picture shows the lines+markers and markers series in one single visualization.
 
-** Highlight first point: ** This will be useful when we use the either line or lines+markers series type to identify where the series starts and helps in following the change in data points. When this option is checked, the first data point will have a black border around it as shown in the picture below.
+**Highlight first point:** This will be useful when we use the either line or lines+markers series type to identify where the series starts and helps in following the change in data points. When this option is checked, the first data point will have a black border around it as shown in the picture below.
 
 ## X Axis and Y Axis
 Both X-Axis and Y-Axis has the same set of parameters and are quite self-explanatory. This option lets you choose configure how the grid-lines, zero line, axis base line or the labels need to be plotted.
@@ -47,7 +47,7 @@ The Show Line is to show or hide the base line of the axis whereas Show Zero Lin
 
 General Setting has two options. They are
 
-Display options for mode bar
-Show Legend
+* Display options for mode bar
+* 	Show Legend
 The mode bar is the list of buttons that appear on top. You can choose to have it or hide it using this option. Currently legends are shown on the right side vertically. I will add more options for the same eventually. Currently you can either show or hide the legend.
 
