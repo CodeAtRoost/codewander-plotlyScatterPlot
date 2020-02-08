@@ -1,4 +1,4 @@
-Qlik sense extension multi series scatter plot
+# Heading 1 Qlik sense extension multi series scatter plot
 This extension lets users create a multi series scatter plot in their Qlik sense application
 For demo and more info: http://www.codewander.com/qlik-sense-extension-multi-series-scatter-plot/
 
